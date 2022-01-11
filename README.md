@@ -1,6 +1,12 @@
 # Componentes-Flutter
 
-Integrantes 
-Sebastian NAranjo - Jeysson Molina 
+Integrantes                                                                          
+Sebastian Naranjo - Jeysson Molina 
 
+
+EJEMPLOS 
+ListView:Bulider y Separated.
+ListTitles
+HomeScreen.
+AppRouter.
 
